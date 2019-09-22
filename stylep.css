@@ -1,0 +1,41 @@
+body{
+
+	margin: 0;
+	padding: 0;
+	background: url(shopping-3.jpg);  
+        background-size: 1380px;
+	background-position: center;
+        font-family: sans-serif; 
+ 	font-size: 30;
+        
+}
+
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+  border-radius: 8px;
+
+}
+
+ul{
+   font-weight: bold;
+
+
+}
+ 
+button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 10%;
+  font-size: 18px;
+}
+
+button:hover {
+  opacity: 0.7;
+}

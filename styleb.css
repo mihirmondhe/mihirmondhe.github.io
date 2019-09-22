@@ -9,3 +9,30 @@ body{
  	font-size: 30;
         
 }
+
+
+img {
+    max-width: 220px;
+    max-height: 150px;
+  border-radius: 8px;
+
+}
+
+p {
+  display: block;
+  margin-top: -5em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 15;
+  text-indent: 40px
+}
+
+.row {
+  display: flex;
+}
+
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
